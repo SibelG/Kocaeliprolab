@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1587062036 source:c:\users\acer\desktop\zlibdev\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"zlib.h"
+
+1484461780 c:\users\acer\desktop\zlibdev\include\zlib.h
+	"zconf.h"
+
+1483216630 c:\users\acer\desktop\zlibdev\include\zconf.h
+	<stddef.h>
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1589290612 source:c:\users\acer\desktop\zlibdev\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

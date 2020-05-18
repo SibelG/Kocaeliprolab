@@ -1,0 +1,13 @@
+•	Zlip kütüphanesi(bizim için gerekli olan zlip.h deflate.h dosyalarý ana klasördeki include klasörüne eklenilerek kullanýlmýþtýr.)
+•	Libz.dll dosyasý(Ana klasördeki lib klasöründe bulunmaktadýr.)
+•	Zlip kütüphanesi  win32 içinde Makefile.gcc  var.
+•	Makefile diye deðiþtirdim.
+•	win32 klasöründeki tüm dosyalarý kopyaladým
+•	bir geri gel yapýþtýr cmd ile girdim
+•	mingw32-make yazýp derledim
+•	zlip dll.a ve zlip1.dll dosyalarý oluþtu.
+•	Daha sonra bu dosyalarý ana klasördeki lib klasörüne attým.
+
+
+
+

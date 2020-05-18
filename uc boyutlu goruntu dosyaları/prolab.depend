@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572128680 source:c:\users\acer\desktop\prolab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<dirent.h>
+
